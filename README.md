@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GabFlo02
+- 👀 I’m interested in AI, ZK, web3
+- 🌱 I’m currently learning about web3
